@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "name": "Asha Patil",
+    "contact": "asha@example.com"
+  },
+  "theme": "neon-developer",
+  "role": "Web Developer",
+  "skills": [
+    "js",
+    "reactjs",
+    "html",
+    "git",
+    "tailwind"
+  ],
+  "missing_skills": [
+    "css",
+    "node.js"
+  ],
+  "readiness_score": 65,
+  "readiness_level": "Promising",
+  "projects": [
+    {
+      "title": "Weather app using React",
+      "description": "Featured work in Web Developer.",
+      "resume_bullet": "Engineered and deployed Weather App Using React (Featured work in Web Developer), ensuring production-grade architecture and maintainable code quality for Web Developer workflows."
+    },
+    {
+      "title": "Campus notes sharing site.",
+      "description": "Featured work in Web Developer.",
+      "resume_bullet": "Engineered and deployed Campus Notes Sharing Site. (Featured work in Web Developer), ensuring production-grade architecture and maintainable code quality for Web Developer workflows."
+    }
+  ],
+  "learning_roadmap": [
+    {
+      "skill": "Css",
+      "duration": "2 weeks",
+      "action": "Build a responsive CSS Grid/Flexbox landing page from Figma."
+    },
+    {
+      "skill": "Node.js",
+      "duration": "3 weeks",
+      "action": "Develop a REST API with Express, JWT authentication, and PostgreSQL."
+    }
+  ]
+}

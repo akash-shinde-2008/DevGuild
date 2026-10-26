@@ -71,3 +71,6 @@ python app.py
 
 ## 🤝 Contributing
 This project is open for Hacktoberfest! Feel free to fork the repository, submit pull requests, and open issues for UI improvements or backend pipeline optimizations.
+
+## Developers
+This project was created by the DevGuild. The onboard members were Akash Shinde (akash-shinde2008) and Niranjan Salunkhe (YesWizardo).
